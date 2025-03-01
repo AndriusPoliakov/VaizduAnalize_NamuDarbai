@@ -53,6 +53,7 @@ React aplikacija bus pasiekiama adresu: **http://localhost:3000**
 ## 🛠 Iškilusios problemos ir jų sprendimai
 
 **1. Web sąsajoj neveikia 2ND užduoties sprendimas**
+
 Drono sekimo programinį kodą reikia pasileisti lokaliai, nes web sąsaja ir google collab crashina, nes prieš modeliui pradedant sekti droną, vartotojas turi pažymėti pradinę drono vietą.
 
 
