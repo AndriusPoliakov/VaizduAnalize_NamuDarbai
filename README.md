@@ -52,7 +52,7 @@ React aplikacija bus pasiekiama adresu: **http://localhost:3000**
 
 ## 🛠 Iškilusios problemos ir jų sprendimai
 
-**1. Web sąsajoj neveikia 2ND užduoties sprendimas
+**1. Web sąsajoj neveikia 2ND užduoties sprendimas**
 Drono sekimo programinį kodą reikia pasileisti lokaliai, nes web sąsaja ir google collab crashina, nes prieš modeliui pradedant sekti droną, vartotojas turi pažymėti pradinę drono vietą.
 
 
@@ -64,7 +64,7 @@ pip install flask flask-cors torch torchvision clip-by-openai numpy pillow openc
 
 **3. `Large file detected` klaida GitHub**
 
-**4. Netikslus 1ND modelio veikimas
+**4. Netikslus 1ND modelio veikimas**
 Buvo išbandyti 3 modeliai:
 1) YOLOv3, YOLOv5, YOLOv8 modeliai - atpažino paprastus objektus, tokius kaip laivai, žmonės ir pan., bet ne žymius objektus.
 2) Google Landmarks API - Nerado nei vieno objekto iš pateiktų nuotraukų
